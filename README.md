@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Jes Borsellino, A Computer Science student studying from Montana, USA
+Hi, I'm Jes Borsellino, A Computer Science student studying from Montana, USA.
 
 I am currently working on my degree courses, the Nand2Tetris project, MIT's Programming in Python Course, and The Odin Project's full-stack Web Development course
 Looking to contribute to Open Source projects and collaborate on smaller academic or personal interest projects
 
-Interested in Software and Firmware engineering 
+I love mentoring and helping out other students and career changers, ask me about anything. 
+
+Interested in Software and Firmware engineering intern and junior opportunities. 
