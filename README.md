@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Jes, A Computer Science student studying from Montana, USA.
+Hi, I'm Jes, a Software Engineering student studying from Montana, USA.
 
 
